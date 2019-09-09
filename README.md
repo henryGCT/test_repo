@@ -9,3 +9,8 @@ new thing
 lol...
 
 $\alpha$ + $\beta$
+
+$\frac{1}{2}$
+
+$\frac{2}{3}$
+
