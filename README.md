@@ -7,3 +7,5 @@ Henry Gao
 new thing
 
 lol...
+
+$\alpha$ + $\beta$
